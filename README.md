@@ -23,7 +23,7 @@ The "CIA Country Analysis and Clustering" project aims to explore the similariti
 The dataset used in this project is sourced from the CIA World Factbook, which provides comprehensive information about various countries around the world. The dataset includes variables such as population, GDP, literacy rates, and more, allowing for a detailed analysis of each country's characteristics.
 
 - **Source:** [CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook/docs/faqs.html)
-- **Source:** [Data Folder](https://github.com/levi1775/repo-name/tree/main/Data)
+- **Source:** [Data Folder](https://github.com/levi1775/Country-Clustering-Analysis/tree/main/Data)
 ## Goal
 
 The main goal of this project is to gain insights into the similarity between countries and regions by experimenting with different numbers of clusters. The project explores what these clusters represent and how they can be interpreted in terms of global patterns and trends.
