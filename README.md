@@ -34,8 +34,8 @@ The main goal of this project is to gain insights into the similarity between co
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/cia-country-clustering.git
-    cd cia-country-clustering
+    git clone https://github.com/levi1775/Country-Clustering-Analysis.git
+    cd Country-Clustering-Analysis
     ```
 
 2. Install the required dependencies:
